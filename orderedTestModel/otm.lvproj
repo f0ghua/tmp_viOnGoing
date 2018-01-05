@@ -50,7 +50,6 @@
 		<Item Name="Otm Cal Acq State.vi" Type="VI" URL="../OtmAcq/Otm Cal Acq State.vi"/>
 		<Item Name="Otm Mgr Loop.vi" Type="VI" URL="../OtmAcq/Otm Mgr Loop.vi"/>
 		<Item Name="Otm Ref_1.vi" Type="VI" URL="../OtmAcq/Otm Ref_1.vi"/>
-		<Item Name="Channel Cluster.ctl" Type="VI" URL="../OtmAcq/Channel Cluster.ctl"/>
 		<Item Name="Channel Config Cluster.ctl" Type="VI" URL="../OtmAcq/Channel Config Cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -132,6 +131,7 @@
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Channel Cluster.ctl" Type="VI" URL="../OtmAcq/Channel Cluster.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
