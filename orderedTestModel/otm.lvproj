@@ -48,6 +48,10 @@
 		<Item Name="OtmMain.vi" Type="VI" URL="../OtmMain.vi"/>
 		<Item Name="Otm Acquisition Loop.vi" Type="VI" URL="../OtmAcq/Otm Acquisition Loop.vi"/>
 		<Item Name="Otm Cal Acq State.vi" Type="VI" URL="../OtmAcq/Otm Cal Acq State.vi"/>
+		<Item Name="Otm Mgr Loop.vi" Type="VI" URL="../OtmAcq/Otm Mgr Loop.vi"/>
+		<Item Name="Otm Ref_1.vi" Type="VI" URL="../OtmAcq/Otm Ref_1.vi"/>
+		<Item Name="Channel Cluster.ctl" Type="VI" URL="../OtmAcq/Channel Cluster.ctl"/>
+		<Item Name="Channel Config Cluster.ctl" Type="VI" URL="../OtmAcq/Channel Config Cluster.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
